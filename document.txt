@@ -1,3 +1,0 @@
-# Welcome
-
-This is clarified **git** commands.
